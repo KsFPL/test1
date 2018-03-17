@@ -1,1 +1,1 @@
-# test1
+# kilka slow o tym repozytorium
